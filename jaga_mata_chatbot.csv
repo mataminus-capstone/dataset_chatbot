@@ -1,0 +1,259 @@
+﻿intent,question,answer
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
+greeting,Halo,"Halo! 👋 Saya JagaBot, asisten kesehatan mata Anda. Ada yang bisa saya bantu hari ini?"
+greeting,Hi,Hai! 👁️ Senang bertemu dengan Anda. Mau cek kesehatan mata atau butuh saran perawatan?
+greeting,Selamat pagi,Selamat pagi! Jangan lupa jaga kesehatan mata ya 😊. Apa yang ingin Anda ketahui hari ini?
+greeting,Selamat siang,Selamat siang! 🌞 Semoga matamu tetap sehat. Mau konsultasi tentang apa hari ini?
+greeting,Selamat malam,Selamat malam! 🌙 Jangan lupa istirahat cukup agar matamu tidak lelah.
+greeting,Hai JagaBot,Hai juga! 👋 Ada keluhan mata atau ingin tahu tips perawatan?
+greeting,Assalamualaikum,Waalaikumsalam! 👁️ Semoga kesehatan matamu selalu terjaga. Ada yang bisa saya bantu?
+farewell,Terima kasih,Sama-sama! Jaga kesehatan matamu dan jangan lupa istirahat dari layar 😎
+farewell,Dadah,Sampai jumpa! Semoga matamu selalu sehat 👋
+farewell,Sampai jumpa,Sampai bertemu lagi di Jaga Mata! 👁️✨
+farewell,Makasih ya,Sama-sama! Senang bisa membantu 😊
+farewell,Bye,Bye! Ingat untuk periksa mata secara rutin ya 👀
+farewell,Sudah cukup,Baik! Jangan ragu kembali jika butuh bantuan lagi.
+check_symptom,Apa tanda-tanda mata minus,"Tanda-tanda mata minus bisa meliputi: penglihatan jauh menjadi buram, sering menyipitkan mata, dan sakit kepala saat melihat jauh."
+check_symptom,Bagaimana tahu kalau mata saya rabun jauh,"Rabun jauh ditandai dengan sulit melihat objek dari jarak jauh, tapi jelas untuk jarak dekat."
+check_symptom,Apa ciri-ciri mata lelah,"Mata terasa perih, kering, berair, atau pandangan buram sementara. Cobalah aturan 20-20-20."
+check_symptom,Mata saya gatal terus,Mungkin karena alergi atau iritasi. Hindari mengucek mata dan jaga kebersihan tangan.
+check_symptom,Kenapa mata sering berair,"Bisa disebabkan mata kering, alergi, atau iritasi. Jika berlanjut, sebaiknya periksa ke dokter mata."
+check_symptom,Kenapa pandangan saya kadang buram,"Bisa jadi karena mata lelah, kering, atau gejala rabun. Coba istirahatkan mata dan periksa jika sering terjadi."
+prevention,Bagaimana cara menjaga kesehatan mata,"Cukup tidur, batasi layar, konsumsi vitamin A, dan lakukan pemeriksaan mata rutin."
+prevention,Makanan yang bagus untuk mata,"Wortel, bayam, salmon, telur, dan alpukat kaya vitamin A, C, dan E."
+prevention,Cara mencegah rabun jauh,"Gunakan pencahayaan cukup, jaga jarak dari layar, dan hindari membaca sambil tiduran."
+prevention,Bagaimana cara menjaga mata dari laptop,"Gunakan aturan 20-20-20, atur kecerahan layar, dan jangan lupa berkedip."
+prevention,Apakah kacamata bisa mencegah rabun,"Tidak, tapi membantu memperbaiki penglihatan. Pencegahan rabun tetap lewat kebiasaan sehat."
+prevention,Apakah sinar matahari berbahaya untuk mata,"Ya, gunakan kacamata hitam dengan proteksi UV saat di luar ruangan."
+treatment,Bagaimana mengatasi mata kering,"Gunakan tetes mata buatan, minum air cukup, dan kurangi paparan AC."
+treatment,Bagaimana mengobati mata merah,"Jika iritasi ringan, istirahatkan mata. Jika disertai nyeri, segera ke dokter mata."
+treatment,Saya sering sakit mata,Sebaiknya periksa ke dokter mata untuk mengetahui penyebab pastinya.
+treatment,Apakah boleh meneteskan air biasa ke mata,Tidak disarankan. Gunakan air steril atau tetes mata sesuai anjuran dokter.
+treatment,Mata terasa panas dan pedih,Bisa jadi iritasi karena layar atau debu. Istirahatkan mata dan hindari mengucek.
+treatment,Apakah boleh pakai obat mata tanpa resep,"Sebaiknya tidak, karena setiap obat mata memiliki kandungan berbeda."
+vision_care,Berapa lama aman menatap layar,Istirahatkan mata setiap 20 menit dengan melihat objek jauh selama 20 detik.
+vision_care,Apa yang harus dilakukan jika mata perih saat lihat layar,"Kurangi kecerahan layar, gunakan mode malam, dan jangan lupa berkedip."
+vision_care,Bagaimana menjaga mata dari cahaya gadget,Gunakan filter cahaya biru dan jaga jarak pandang 40 cm.
+vision_care,Apakah layar gelap lebih aman,Tidak selalu. Gunakan kontras seimbang agar mata tidak cepat lelah.
+vision_care,Apakah perlu kacamata anti radiasi,"Bisa membantu mengurangi ketegangan mata, terutama jika sering depan layar."
+vision_care,Apakah lampu redup membuat mata rusak,"Ya, membaca di tempat gelap bisa membuat mata bekerja lebih keras."
+emergency,Apa yang harus dilakukan jika mata kemasukan benda,Jangan digosok! Bilas dengan air bersih atau saline dan segera ke dokter mata jika tidak keluar.
+emergency,Mata saya tiba-tiba buram,"Segera istirahatkan mata. Jika tidak membaik, segera ke dokter mata."
+emergency,Mata terkena cairan kimia,Segera bilas mata dengan air mengalir 15 menit dan pergi ke IGD.
+emergency,Kelilipan tapi tidak keluar,"Cuci tangan, coba bilas mata dengan air bersih. Jangan dipaksa dikeluarkan."
+emergency,Mata sakit setelah memakai lensa kontak,"Segera lepas lensa, bilas mata, dan jangan gunakan lagi sebelum diperiksa dokter."
+emergency,Pandangan tiba-tiba gelap sebelah,Itu kondisi darurat. Segera ke IGD atau dokter mata.
