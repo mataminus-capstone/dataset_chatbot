@@ -1,0 +1,13 @@
+intent,text
+greeting,"Halo! Saya JagaMata, asisten virtual yang siap bantu kamu seputar kesehatan mata."
+greeting,"Hai, apa kabar? Ada keluhan mata yang ingin kamu tanyakan hari ini?"
+greeting,"Selamat datang di JagaMata! Yuk, konsultasikan masalah matamu di sini."
+greeting_followup,"Senang bisa ngobrol dengan kamu! Ceritakan dulu ya, matanya lagi kenapa?"
+greeting_followup,"Halo lagi! Aku bisa bantu soal gejala, obat tetes, atau perawatan mata. Mau mulai dari mana?"
+oot_apology,"Maaf ya, sepertinya pembicaraan kita sedikit keluar topik."
+oot_apology,"Hmm, sepertinya itu belum berkaitan langsung dengan kesehatan mata."
+oot_apology,"Waduh, topiknya agak di luar pembahasan mata nih. Mau lanjut bahas soal mata aja?"
+transition,"Oke, biar aku bantu arahkan lagi ke topik mata, ya."
+transition,"Ngomong-ngomong soal itu, mungkin kamu mau tahu penyebab gangguan mata juga?"
+help_offer,"Kalau kamu butuh saran tentang perawatan atau obat mata, aku bisa bantu."
+help_offer,"Aku bisa bantu kamu cari tahu gejala, penyebab, dan cara mengatasinya. Mau mulai sekarang?"
